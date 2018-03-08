@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 	@RequestMapping("/account")
 public class joinController {
 	
-	@RequestMapping("/join")
+	@RequestMapping("/join.do")
 	public String accountJoinHandle() {
 		
 		return "account/join";
