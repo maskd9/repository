@@ -9,6 +9,9 @@
 	body.h1{
 		font-family:궁서체;
 	}
+	h2{
+		color: red;
+	}
 </style>
 </head>
 <body>
@@ -19,5 +22,6 @@
 	<p>
 		소스 코드 관리를 위한 분산 버전 관리 시스템이다.
 	</p>
+	<h2>스프링</h2>
 </body>
 </html>
