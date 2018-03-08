@@ -5,9 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Project with GIT</title>
+<style>
+	body.h1{
+		font-family:궁서체;
+	}
+</style>
 </head>
 <body>
 	<h1>project with GIT</h1>
-	sdfsdfsdf
+	스프링
 </body>
 </html>
