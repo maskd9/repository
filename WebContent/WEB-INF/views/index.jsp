@@ -9,10 +9,13 @@
 	body.h1{
 		font-family:궁서체;
 	}
+	h2{
+		color: red;
+	}
 </style>
 </head>
 <body>
 	<h1>project with GIT</h1>
-	스프링
+	<h2>스프링</h2>
 </body>
 </html>
