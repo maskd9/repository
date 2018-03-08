@@ -14,5 +14,10 @@
 <body>
 	<h1>project with GIT</h1>
 	스프링
+	
+	<h2>GIT 이란..?</h2>
+	<p>
+		소스 코드 관리를 위한 분산 버전 관리 시스템이다.
+	</p>
 </body>
 </html>
