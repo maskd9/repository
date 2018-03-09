@@ -16,7 +16,7 @@
 	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="prefix" value="/WEB-INF/views/"></property>
 		<property name="suffix" value=".jsp"></property>
-		<property name="order" value="3"></property>
+		<property name="order" value="9"></property>
 	</bean>
 	<bean class="com.google.gson.Gson"/>
 	
